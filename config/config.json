@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "roman",
+    "password": "roman",
+    "database": "roman",
+    "host": "127.0.0.1",
+    "port": 9911,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "roman",
+    "password": "roman",
+    "database": "roman",
+    "host": "127.0.0.1",
+    "port": 9911,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "roman",
+    "password": "roman",
+    "database": "roman",
+    "host": "127.0.0.1",
+    "port": 9911,
+    "dialect": "postgres"
+  }
+}
